@@ -1,2 +1,2 @@
 # CSC181
-CSC181 course activities and project proposal
+CSC181 course activities and projects
